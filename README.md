@@ -19,8 +19,8 @@ Authentication</b>.
 
 ![logo](https://github.com/ankitaritgithub/internsctl-main/assets/122306095/c16f74d3-7e1f-4662-87cf-0ebf51ee7c9c)(p1.png)
 ![logo](https://github.com/ankitaritgithub/internsctl-main/assets/122306095/60eb8807-6b1b-4a0d-ac0a-fdc5c701c7b2)(p3.png)
-![logo](C:\Users\hp\Downloads\Internsctl-Project-Xenonstack--main (1)\Internsctl-Project-Xenonstack--main\ss\p2.png)
+
 ![logo](https://github.com/ankitaritgithub/internsctl-main/assets/122306095/a2873921-da9f-4807-98b6-b3342b7e6fca)()
-![logo](C:\Users\hp\Downloads\Internsctl-Project-Xenonstack--main (1)\Internsctl-Project-Xenonstack--main\ss\p5.png)
+
 
 
